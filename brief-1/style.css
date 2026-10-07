@@ -550,7 +550,8 @@ button:focus-visible {
 .centre { text-align: center; color: #1d3557; }
 
 
-.box { color: #FFFFFF; 
+.box {margin-top : 50px;
+      color: #FFFFFF; 
       background:#FF6B2C; 
       border:  1px solid #FF6B2C; 
       padding: 10px; 
@@ -559,7 +560,8 @@ button:focus-visible {
       height: 200px; 
       width: 50%; 
       text-align: center;
-      left: 25%; }
+      left: 25%;
+     margin-bottom: 100px; }
 
 
 .c { position: absolute; 
