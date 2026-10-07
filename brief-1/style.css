@@ -557,10 +557,10 @@ button:focus-visible {
       padding: 10px; 
       border-radius: 12px; 
       position: relative; 
-      height: 200px; 
+      height: 250px; 
       width: 50%; 
       text-align: center;
-      left: 25%;
+      left: 5%;
      margin-bottom: 100px; }
 
 
@@ -572,3 +572,6 @@ button:focus-visible {
     padding: 10px; 
     border-radius: 12px;
     padding: 8px; }
+
+.photo {width: 50%;
+        left: 75%;}
