@@ -545,3 +545,10 @@ button:focus-visible {
   font-size: 13px;
   color: #94A3B8;
 }
+
+
+.centre { text-align: center; color: #1d3557; }
+
+
+.box { color: #FFFFFF; background:#FF6B2C; border:  1px solid #FF6B2C; 
+  padding: 10px; border-radius: 12px; position: relative; height: 180px; width: 50%; text-align: center; }

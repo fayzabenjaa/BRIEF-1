@@ -29,7 +29,30 @@
       </nav>
     </div>
     </header>
+
     <secton id="contact" class="section">
+      <h1 class="centre">Contactez-nous</h1>
+      <div>
+        <form class="box">
+          <p>
+          <label for="nom">nom</label>
+          <input type="text" id="nom" name="nom" required>
+          </p>
+          <p>
+            <label for="email">adresse email</label>
+            <input type="email" id="email" name="email" required>
+          </p>
+          <p>
+            <label for="tel">Téléphone</label>
+            <input type="tel" id="tel" name="tel" pattern="0[5-7][0-9]{8}">
+          </p>
+          <P>
+            <label for="message">ton message</label>
+            <textarea id="message" name="message" rows="3" cols="32"></textarea>
+          </P>
+          <button type="submit" >entrez</button>
+        </form>
+      </div>
     </secton>
 
     <footer class="pied-de-page">
