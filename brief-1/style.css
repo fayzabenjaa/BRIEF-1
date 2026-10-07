@@ -550,5 +550,23 @@ button:focus-visible {
 .centre { text-align: center; color: #1d3557; }
 
 
-.box { color: #FFFFFF; background:#FF6B2C; border:  1px solid #FF6B2C; 
-  padding: 10px; border-radius: 12px; position: relative; height: 180px; width: 50%; text-align: center; }
+.box { color: #FFFFFF; 
+      background:#FF6B2C; 
+      border:  1px solid #FF6B2C; 
+      padding: 10px; 
+      border-radius: 12px; 
+      position: relative; 
+      height: 200px; 
+      width: 50%; 
+      text-align: center;
+      left: 25%; }
+
+
+.c { position: absolute; 
+    bottom: 10px;
+    right: 10px; 
+    background: #FFFFFF; 
+    border: 1px solid #FF6B2C;
+    padding: 10px; 
+    border-radius: 12px;
+    padding: 8px; }
