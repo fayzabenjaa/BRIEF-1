@@ -550,28 +550,56 @@ button:focus-visible {
 .centre { text-align: center; color: #1d3557; }
 
 
-.box {margin-top : 50px;
-      color: #FFFFFF; 
-      background:#FF6B2C; 
-      border:  1px solid #FF6B2C; 
-      padding: 10px; 
-      border-radius: 12px; 
-      position: relative; 
-      height: 250px; 
-      width: 50%; 
-      text-align: center;
-      left: 5%;
-     margin-bottom: 100px; }
+.contact-box {
+    color:#0F1B2D;
+    background: #FFFFFF;
+    border: 1px solid #0F1B2D;
+    padding: 40px;
+    border-radius: 12px;
+    width: 500px;
+}
+
+.contact-box p {
+    display: flex;
+    align-items: center;
+    margin: 15px 0;
+}
+
+.contact-box label {
+    width: 160px;
+    text-align: left;
+}
+
+.contact-box input,
+.contact-box textarea {
+    flex: 1;
+}
 
 
-.c { position: absolute; 
-    bottom: 10px;
-    right: 10px; 
-    background: #FFFFFF; 
+.contact-button { position: absolute; 
+    background-color:  #FF6B2c; 
     border: 1px solid #FF6B2C;
     padding: 10px; 
     border-radius: 12px;
     padding: 8px; }
 
-.photo {width: 50%;
-        left: 75%;}
+.contact-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    max-width: 1100px;
+    margin: 50px auto;
+}
+
+
+.contact-image {
+    width: 450px;
+}
+
+.contact-image img {
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
+    border-radius: 12px;
+}
