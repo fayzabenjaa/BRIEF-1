@@ -606,3 +606,30 @@ button:focus-visible {
     object-fit: cover;
     border-radius: 12px;
 }
+
+.logo-fitness {
+  width: 15%;
+}
+
+.logo-fitness img {
+  width: 50%;
+}
+.logoo{
+  position: absolute;
+  left: 150PX;
+  display: flex;
+  align-items: center;
+  font-family: 'Poppins', Arial, sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  color: #0F1B2D;
+}
+
+.logoo::after {
+  content: "";
+  width: 10px;
+  height: 10px;
+  margin-left: 8px;
+  background-color: #FF6B2C;
+  border-radius: 50%;
+}
