@@ -580,8 +580,7 @@ button:focus-visible {
 .contact-button { position: absolute;
     right: 55%; 
     background-color:  #FF6B2c; 
-    border: 1px solid #FF6B2C;
-    padding: 10px; 
+    border: 1px solid #FF6B2C; 
     border-radius: 12px;
     padding: 8px;
     width: 100px; }
