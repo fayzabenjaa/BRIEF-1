@@ -12,16 +12,16 @@
 
 ## 2.Technologies utilisées :
 
-HTML pour la structure du site web.
-CSS pour le design et le style.
-Git et GitHub pour sauvegarder mon travail et suivre les modifications.
-GitHub Pages pour publier le site en ligne.
+- HTML pour la structure du site web.
+- CSS pour le design et le style.
+- Git et GitHub pour sauvegarder mon travail et suivre les modifications.
+- GitHub Pages pour publier le site en ligne.
 
 ## 2.Ce que j’ai appris :
 
-**Méthode agile**
-**Git branching**
-**html** 
+- **Méthode agile**
+- **Git branching**
+- **html** :
  - Anatomie d’une page HTML
  - Titres/paragraphes/texte
  - Liens/images/chemins
@@ -29,7 +29,7 @@ GitHub Pages pour publier le site en ligne.
  - Les formulaires et la validation native
  - Trois règles d’accessibilité
  - SEO et accessibilité 
-**CSS**
+- **CSS** :
  - Façons d’ajouter du CSS
  - Les sélecteurs
  - Spécificité et héritage
