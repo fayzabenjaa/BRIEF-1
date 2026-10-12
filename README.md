@@ -44,4 +44,3 @@
 - CSS = https://medium.com/@soufianboushaba314/css-de-zéro-apprendre-en-regardant-4f1300d7dd15
 - HTML = https://medium.com/@soufianboushaba314/html-de-zéro-le-guide-complet-pour-débutants-c011e91e8408
 
-## 4.planification
